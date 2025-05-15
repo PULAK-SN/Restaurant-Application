@@ -1,0 +1,18 @@
+.app__header {
+  background: var(--color-black);
+  gap: 32px;
+}
+
+.app__header-h1 {
+  font-family: var(--font-base);
+  color: var(--color-golden);
+  font-size: 70px;
+  letter-spacing: 0.04em;
+  line-height: 117px;
+  /* text-transform: uppercase; */
+  text-transform: capitalize;
+}
+
+.app__header-img {
+  width: 80%;
+}
